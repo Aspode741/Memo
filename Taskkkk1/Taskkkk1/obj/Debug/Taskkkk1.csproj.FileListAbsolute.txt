@@ -1,0 +1,7 @@
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Taskkkk1\Taskkkk1\bin\Debug\Taskkkk1.exe.config
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Taskkkk1\Taskkkk1\bin\Debug\Taskkkk1.exe
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Taskkkk1\Taskkkk1\bin\Debug\Taskkkk1.pdb
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Taskkkk1\Taskkkk1\obj\Debug\Taskkkk1.csproj.AssemblyReference.cache
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Taskkkk1\Taskkkk1\obj\Debug\Taskkkk1.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Taskkkk1\Taskkkk1\obj\Debug\Taskkkk1.exe
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Taskkkk1\Taskkkk1\obj\Debug\Taskkkk1.pdb

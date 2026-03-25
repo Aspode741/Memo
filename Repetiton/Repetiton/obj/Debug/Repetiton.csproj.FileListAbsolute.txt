@@ -1,0 +1,7 @@
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Repetiton\Repetiton\bin\Debug\Repetiton.exe.config
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Repetiton\Repetiton\bin\Debug\Repetiton.exe
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Repetiton\Repetiton\bin\Debug\Repetiton.pdb
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Repetiton\Repetiton\obj\Debug\Repetiton.csproj.AssemblyReference.cache
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Repetiton\Repetiton\obj\Debug\Repetiton.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Repetiton\Repetiton\obj\Debug\Repetiton.exe
+C:\Users\Хозяин\source\repos\Aspode741\Memo\Repetiton\Repetiton\obj\Debug\Repetiton.pdb
